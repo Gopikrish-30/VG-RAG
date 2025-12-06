@@ -1,5 +1,7 @@
 # VG-RAG: Verification-Gated Retrieval-Augmented Generation
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_5ppytu5ppytu5ppy" src="https://github.com/user-attachments/assets/c4fbd055-cb3a-4416-8d23-9b907398fee2" />
+
 ## Overview
 
 **VG-RAG (Verification-Gated RAG)** is an advanced Retrieval-Augmented Generation system that introduces a novel **"Retrieve-Verify-Generate"** paradigm to combat hallucination propagation in traditional RAG systems. Unlike standard RAG approaches that assume all retrieved documents are accurate, VG-RAG implements a strict verification gate to ensure only validated information reaches the generation model.
