@@ -283,10 +283,6 @@ For issues, questions, or contributions, please open an issue on the GitHub repo
 **Note**: This is an educational and research project demonstrating advanced RAG techniques with verification gates and multi-source validation.
 ## 📖 Citation
 
-```bibtex
-@software{vg_rag_2025,
-  author = {Gopi M},
-  title = {VG-RAG: Verification-Gated Retrieval-Augmented Generation},
-  year = {2025},
-  url = {https://github.com/Gopikrish-30/VG-RAG}
-}
+## 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
