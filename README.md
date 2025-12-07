@@ -1,4 +1,8 @@
 # VG-RAG: Verification-Gated Retrieval-Augmented Generation
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![RAG](https://img.shields.io/badge/Category-RAG-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 <img width="2816" height="1536" alt="Gemini_Generated_Image_5ppytu5ppytu5ppy" src="https://github.com/user-attachments/assets/c4fbd055-cb3a-4416-8d23-9b907398fee2" />
 
