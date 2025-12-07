@@ -247,14 +247,6 @@ as stated in the verified context that Canberra was selected as the capital in 1
 and remains the capital city of Australia.
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source. Please check the repository for license details.
-
 ## 🙏 Acknowledgments
 
 - Built with **LangGraph**, **LangChain**, and **Groq**
@@ -281,7 +273,6 @@ For issues, questions, or contributions, please open an issue on the GitHub repo
 ---
 
 **Note**: This is an educational and research project demonstrating advanced RAG techniques with verification gates and multi-source validation.
-## 📖 Citation
 
 ## 📄 License
 
