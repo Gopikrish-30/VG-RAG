@@ -285,7 +285,7 @@ For issues, questions, or contributions, please open an issue on the GitHub repo
 
 ```bibtex
 @software{vg_rag_2025,
-  author = {Gopikrish},
+  author = {Gopi M},
   title = {VG-RAG: Verification-Gated Retrieval-Augmented Generation},
   year = {2025},
   url = {https://github.com/Gopikrish-30/VG-RAG}
